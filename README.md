@@ -1,4 +1,4 @@
-##  👋 Hi, I’m @sshilona
+##  👋 Hi, I’m Shahar Shilon-Ankori
 
 ## About Me
 I'm a passionate Software Engineer with a background in Computer Engineering from Technion University.
